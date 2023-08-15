@@ -1,0 +1,28 @@
+.efeitoDark {
+  z-index: 3;
+  border: none;
+  position: fixed;
+  right: 3%;
+  top: 1.5%;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  width: 82px;
+  height: 42px;
+  background-color: rgb(233, 224, 224);
+  border: 1px solid black;
+  border-radius: 200px;
+}
+.btnDark {
+  background-color: rgba(41, 41, 44, 0.836);
+  color: white;
+  margin: 0 3px;
+  border: none;
+  height: 35px;
+  width: 35px;
+  border-radius: 100%;
+}
+
+.lua {
+  display: block;
+}
